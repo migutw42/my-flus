@@ -7,6 +7,8 @@ This is made for my practice.
 
 ## Demo
 
+* [SAMPLE](https://migutw42.github.io/my-flux/)
+
 ## Features
 
 * Simple
@@ -14,7 +16,7 @@ This is made for my practice.
 
 ## Usage
 
-* Look at the sourcecode.
+* Look at the source code.
 
 ## Instalation
 
