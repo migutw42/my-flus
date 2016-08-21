@@ -19,6 +19,7 @@ This is made for my practice.
 ## Instalation
 
 ```
+$ git clone https://github.com/migutw42/my-flux.git
 ```
 
 ## License
